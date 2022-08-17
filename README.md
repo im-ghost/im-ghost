@@ -1,5 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;Welcome+to+my+profile&size=40&height=80&width=500&center=true&vcenter=true)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there👋;Welcome+to+my+profile&size=40&height=80&width=500&center=true&vcenter=true)](https://git.io/typing-svg)
 <h1 align="center"> I'm Richard</h1>
 <h3 align="center"></h3>
 
@@ -23,7 +23,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peculiar-codes&theme=dark" alt="peculiar-codes" /></p>
 
-[![Ricard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peculiar-codes&theme=dark&border_radius=1em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<!--
+[![Ricard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peculiar-codes&theme=dark&border_radius=1.3em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peculiar-codes&repo)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peculiar-codes&layout=compact&theme=dark&border_radius=1em)](https://github.com/anuraghazra/github-readme-stats)
 
