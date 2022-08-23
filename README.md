@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peculiar-codes" alt="peculiar-codes" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/peculiar-codes" target="blank"><img src="https://img.shields.io/twitter/follow/peculiar-codes?logo=twitter&style=for-the-badge" alt="peculiar-codes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/peculiar-codes" target="blank"><img src="https://img.shields.io/twitter/follow/peculiar_codes?logo=twitter&style=for-the-badge" alt="peculiar-codes" /></a> </p>
 
 - 💬 Ask me about **react,nextjs,mongodb, JavaScript, typescript, mui,pug,git**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/peculiar-codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peculiar-codes" height="30" width="40" /></a>
+<a href="https://twitter.com/peculiar_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peculiar-codes" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
