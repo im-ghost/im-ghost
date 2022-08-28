@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Richard</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peculiar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="peculiar-codes" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=peculiar-codes&label=Profile%20views&color=0e75b6&style=flat" alt="peculiar-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peculiar-codes" alt="peculiar-codes" /></a> </p>
 
@@ -25,7 +25,7 @@
 
 [![Ricard's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peculiar-codes&theme=dark&border_radius=1.3em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Peculiar-codes&repo)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peculiar-codes&layout=compact&theme=dark&border_radius=2em)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peculiar-codes&layout=compact&theme=dark&border_radius=1em)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
