@@ -1,4 +1,4 @@
-
+viamedia ap
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there👋;Welcome+to+my+profile&size=40&height=80&width=500&center=true&vcenter=true)](https://git.io/typing-svg)
 <h1 align="center"> I am Richard</h1>
 <a href="https://docs.google.com/document/d/17lg6k2gEFPbAz3ZtODag-cCiO3hidQnWCHu9txPM0i0/edit?usp=drivesdk">My resume</a>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/__richies__" target="blank"><img src="https://img.shields.io/twitter/follow/__richies__?logo=twitter&style=for-the-badge" alt="peculiar-codes" /></a> </p>
 
-- 💬 Ask me about **react,nextjs,mongodb, JavaScript, typescript, mui,pug,git**
+- 💬 Ask me about **react,nextjs,mongodb, JavaScript, typescript, mui,pug,git, state management**
 
 - 📫 How to reach me **culestfrosh@gmail.com**
 
@@ -28,14 +28,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ghost&layout=compact&theme=dark&border_radius=1em)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a [social media app](https://github.com/im-ghost/media-api)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with UI/UX
+ 
+- 😄 Pronouns: He
+- ⚡ Fun fact: Im a law student 
+
