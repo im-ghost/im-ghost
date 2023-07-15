@@ -1,8 +1,10 @@
-viamedia ap
+
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there👋;Welcome+to+my+profile&size=40&height=80&width=500&center=true&vcenter=true)](https://git.io/typing-svg)
 <h1 align="center"> I am Richard</h1>
+<div style="width:100vw;dispaly:flex;justify-content:space-between;width:100vw;">
 <a href="https://docs.google.com/document/d/17lg6k2gEFPbAz3ZtODag-cCiO3hidQnWCHu9txPM0i0/edit?usp=drivesdk">My resume</a>
-
+<a href="https://richardadetonwa.netlify.app/">My Portfolio</a>
+</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=im-ghost&label=Profile%20views&color=0e75b6&style=flat" alt="peculiar-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-ghost" alt="peculiar-codes" /></a> </p>
