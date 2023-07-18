@@ -36,6 +36,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with UI/UX
  
-- 😄 Pronouns: He
+- 😄 Pronouns: He,him
 - ⚡ Fun fact: Im a law student 
 
