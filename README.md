@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on a [social media app](https://github.com/im-ghost/media-api)
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborration with [social media app](https://github.com/im-ghost/media-api)
 - 🤔 I’m looking for help with UI/UX
  
 - 😄 Pronouns: He,him
